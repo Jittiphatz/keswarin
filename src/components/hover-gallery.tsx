@@ -49,7 +49,7 @@ export default function HoverImg() {
                 brightnessLevel={0.6}
                 activeWidth={20}
                 enableKeyboardNavigation={true}
-                autoPlay={true}
+                autoPlay={false}
                 autoPlayDelay={2000}
                 images={images}
             />
